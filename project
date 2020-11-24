@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
   cout << "Welcome to MyFeetHurt: " << endl;
-
+  cout << "wassssssup curve_killas!" <<endl;
 
   return 0;
 }
